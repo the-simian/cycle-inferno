@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "browser-split": "0.0.1",
-    "hyperscript-helpers": "^3.0.1",
+    "hyperscript-helpers": "^3.0.2",
     "inferno": "^0.7.27",
     "inferno-dom": "^0.7.27",
     "inferno-hyperscript": "^2.0.3",
