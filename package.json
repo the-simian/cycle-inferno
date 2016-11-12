@@ -67,6 +67,6 @@
     "matches-selector": "^1.0.0"
   },
   "peerDependencies": {
-    "rx": "*"
+    "rx": ">=4.1.0"
   }
 }
