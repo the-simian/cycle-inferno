@@ -54,7 +54,7 @@
     "eslint-plugin-no-class": "^0.1.0",
     "mocha": "^3.1.2",
     "rx": "^4.0.7",
-    "testem": "^1.13.0",
+    "testem": "^1.14.0",
     "uglify-js": "^2.6.1"
   },
   "dependencies": {
