@@ -61,7 +61,7 @@
     "browser-split": "0.0.1",
     "hyperscript-helpers": "^3.0.1",
     "inferno": "^0.7.27",
-    "inferno-dom": "^0.7.27",
+    "inferno-dom": "^1.0.2",
     "inferno-hyperscript": "^2.0.3",
     "inferno-server": "^0.7.27",
     "matches-selector": "^1.0.0"
