@@ -60,7 +60,7 @@
   "dependencies": {
     "browser-split": "0.0.1",
     "hyperscript-helpers": "^3.0.1",
-    "inferno": "^1.0.0-beta45",
+    "inferno": "^3.0.4",
     "inferno-dom": "^0.7.27",
     "inferno-hyperscript": "^2.0.3",
     "inferno-server": "^1.0.0-beta45",
