@@ -55,7 +55,7 @@
     "mocha": "^3.1.2",
     "rx": "^4.0.7",
     "testem": "^1.13.0",
-    "uglify-js": "^3.0.0"
+    "uglify-js": "^3.0.19"
   },
   "dependencies": {
     "browser-split": "0.0.1",
