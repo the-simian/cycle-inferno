@@ -42,7 +42,7 @@
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",
     "babel-eslint": "^7.1.0",
-    "babel-plugin-inferno": "^1.0.0-legacy",
+    "babel-plugin-inferno": "^6.0.1",
     "babel-plugin-syntax-jsx": "^6.3.13",
     "babel-preset-es2015": "^6.3.13",
     "babelify": "^7.2.0",
