@@ -62,7 +62,7 @@
     "hyperscript-helpers": "^3.0.1",
     "inferno": "^1.0.0-beta45",
     "inferno-dom": "^0.7.27",
-    "inferno-hyperscript": "^2.0.3",
+    "inferno-hyperscript": "^7.1.11",
     "inferno-server": "^1.0.0-beta45",
     "matches-selector": "^1.0.0"
   },
