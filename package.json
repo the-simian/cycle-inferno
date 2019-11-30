@@ -48,7 +48,7 @@
     "babelify": "^7.2.0",
     "browserify": "^15.0.0",
     "browserify-shim": "^3.8.12",
-    "eslint": "^4.1.0",
+    "eslint": "^6.7.2",
     "eslint-config-cycle": "^3.2.0",
     "eslint-plugin-cycle": "^1.0.2",
     "eslint-plugin-no-class": "^0.1.0",
